@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <name>Bill</name>
+        <characterClass>Warrior</characterClass>
+        <level>5</level>
+        <health>125</health>
+        <attackPower>200</attackPower>
+        <gold>5000</gold>
+    </character>
+    <character>
+        <name>Dave</name>
+        <characterClass>Mage</characterClass>
+        <level>5</level>
+        <health>70</health>
+        <attackPower>400</attackPower>
+        <gold>5000</gold>
+    </character>
+    <character>
+        <name>Stevie</name>
+        <characterClass>Archer</characterClass>
+        <level>5</level>
+        <health>50</health>
+        <attackPower>300</attackPower>
+        <gold>5000</gold>
+    </character>
+    <character>
+        <name>Nyla</name>
+        <characterClass>Rogue</characterClass>
+        <level>5</level>
+        <health>100</health>
+        <attackPower>75</attackPower>
+        <gold>5000</gold>
+    </character>
+</characters>
